@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariaHdezFdez
-- 👀 I’m interested in Physics and Engineering, particularly in Acoustics and applied Physics.
-- 🌱 I’m currently studying last year of Physics in University of Murcia.
+- 👀 I’m interested in Physics and Engineering, particularly in applied Physics, biophysics.
+- 🌱 I’m currently working at Vasomaly.
 - 📫 How to reach me: mhf00@hotmail.es
 
 <!---
