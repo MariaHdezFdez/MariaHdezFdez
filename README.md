@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariaHdezFdez
 - 👀 I’m interested in Physics and Engineering, particularly in applied Physics, biophysics.
-- 🌱 I’m currently working at Vasomaly.
+- 🌱 I’m currently working at Vasomaly. PhD at UPCT.
 - 📫 How to reach me: mhf00@hotmail.es
 
 <!---
